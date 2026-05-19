@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+
+# Cypress videos and screenshots
+cypress/videos/
+cypress/screenshots/
+
+# Environment variables (Hide your credentials!)
+cypress.env.json
